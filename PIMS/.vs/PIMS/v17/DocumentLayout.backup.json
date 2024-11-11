@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|d:\\hndit\\hndit_1styear_2ndsem\\hndit2062 ict project (group)\\pims\\pims\\interfaces\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\pims\\interfaces\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|d:\\hndit\\hndit_1styear_2ndsem\\hndit2062 ict project (group)\\pims\\pims\\interfaces\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\pims\\interfaces\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\pims\\interfaces\\newmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\newmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\pims\\interfaces\\medicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\medicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\pims\\interfaces\\medicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\medicineusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\pims\\interfaces\\newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57127E23-3019-448F-8143-E923F1EFDC9D}|PIMS\\PIMS.csproj|solutionrelative:pims\\interfaces\\newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\LoginPage.cs",
+              "ToolTip": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\LoginPage.cs",
+              "RelativeToolTip": "PIMS\\Interfaces\\LoginPage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:11:33.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicineUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\MedicineUserControl.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\MedicineUserControl.cs",
+              "ToolTip": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\MedicineUserControl.cs [Design]",
+              "RelativeToolTip": "PIMS\\Interfaces\\MedicineUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:40:30.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewMedicine.cs [Design]",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\NewMedicine.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\NewMedicine.cs",
+              "ToolTip": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\NewMedicine.cs [Design]",
+              "RelativeToolTip": "PIMS\\Interfaces\\NewMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:40:26.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminHome.cs [Design]",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\AdminHome.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\AdminHome.cs",
+              "ToolTip": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\AdminHome.cs [Design]",
+              "RelativeToolTip": "PIMS\\Interfaces\\AdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T14:51:04.136Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminHome.cs",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\AdminHome.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\AdminHome.cs",
+              "ToolTip": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\AdminHome.cs",
+              "RelativeToolTip": "PIMS\\Interfaces\\AdminHome.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwGoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:33:29.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\LoginPage.cs",
+              "ToolTip": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\LoginPage.cs [Design]",
+              "RelativeToolTip": "PIMS\\Interfaces\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:47:29.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicineUserControl.cs",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\MedicineUserControl.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\MedicineUserControl.cs",
+              "ToolTip": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\MedicineUserControl.cs",
+              "RelativeToolTip": "PIMS\\Interfaces\\MedicineUserControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:40:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewUser.cs [Design]",
+              "DocumentMoniker": "D:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\NewUser.cs",
+              "RelativeDocumentMoniker": "PIMS\\Interfaces\\NewUser.cs",
+              "ToolTip": "G:\\HNDIT\\HNDIT_1stYear_2ndSem\\HNDIT2062 ICT Project (Group)\\PIMS\\PIMS\\Interfaces\\NewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:32:55.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

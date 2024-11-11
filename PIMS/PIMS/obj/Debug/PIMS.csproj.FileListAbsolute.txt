@@ -1,0 +1,179 @@
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe.config
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.pdb
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.exe
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.pdb
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe.config
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.pdb
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.exe
+F:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.pdb
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe.config
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.pdb
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Form1.resources
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.exe
+E:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.pdb
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe.config
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.pdb
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.exe
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.pdb
+H:\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.AdminHome.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.UsersUserControl.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.MedicineUserControl.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.OrdersUserControl.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.ReportUserControl.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewUserForm.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewMedicineForm.resources
+H:\PIMS\PIMS\bin\Debug\PIMS.exe.config
+H:\PIMS\PIMS\bin\Debug\PIMS.exe
+H:\PIMS\PIMS\bin\Debug\PIMS.pdb
+H:\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+H:\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+H:\PIMS\PIMS\obj\Debug\PIMS.AdminHome.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.MedicineUserControl.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewMedicineForm.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewUserForm.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.OrdersUserControl.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.ReportUserControl.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.SettingsUserControl.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.UsersUserControl.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+H:\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+H:\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+H:\PIMS\PIMS\obj\Debug\PIMS.exe
+H:\PIMS\PIMS\obj\Debug\PIMS.pdb
+E:\PIMS\PIMS\bin\Debug\PIMS.exe.config
+E:\PIMS\PIMS\bin\Debug\PIMS.exe
+E:\PIMS\PIMS\bin\Debug\PIMS.pdb
+E:\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+E:\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+E:\PIMS\PIMS\obj\Debug\PIMS.AdminHome.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.MedicineUserControl.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewMedicineForm.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewUserForm.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.OrdersUserControl.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.ReportUserControl.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.SettingsUserControl.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Interfaces.UsersUserControl.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+E:\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+E:\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+E:\PIMS\PIMS\obj\Debug\PIMS.exe
+E:\PIMS\PIMS\obj\Debug\PIMS.pdb
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\bin\Debug\PIMS.exe.config
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\bin\Debug\PIMS.exe
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\bin\Debug\PIMS.pdb
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.AdminHome.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Interfaces.MedicineUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewMedicineForm.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewUserForm.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Interfaces.OrdersUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Interfaces.ReportUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Interfaces.SettingsUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Interfaces.UsersUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.exe
+C:\Users\mafas\OneDrive\Desktop\PIMS\PIMS\obj\Debug\PIMS.pdb
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.AddQtyForm.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.AdminHomeForm.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe.config
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.pdb
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.AddQtyForm.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.AdminHomeForm.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.MedicineUserControl.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewMedicineForm.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewUserForm.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.OrdersUserControl.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.ReportUserControl.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.UsersUserControl.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.exe
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.pdb
+C:\Users\fathi\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.SellingForm.resources
+G:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.SellingForm.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe.config
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.pdb
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.AddQtyForm.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.AdminHomeForm.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.MedicineUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewMedicineForm.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewUserForm.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.OrdersUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.ReportUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.SellingForm.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.UsersUserControl.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.exe
+C:\Users\mafas\OneDrive\Desktop\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.pdb
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe.config
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.exe
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\bin\Debug\PIMS.pdb
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.AssemblyReference.cache
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.AddQtyForm.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.AdminHomeForm.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Dashboard.DashboardUserControl.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.LoginPage.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.MedicineUserControl.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewMedicineForm.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.NewUserForm.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.OrdersUserControl.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.ReportUserControl.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.SellingForm.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Interfaces.UsersUserControl.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.Properties.Resources.resources
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.GenerateResource.cache
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.csproj.CoreCompileInputs.cache
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.exe
+D:\HNDIT\HNDIT_1stYear_2ndSem\HNDIT2062 ICT Project (Group)\PIMS\PIMS\obj\Debug\PIMS.pdb
